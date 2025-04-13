@@ -3,7 +3,10 @@
 ```
 function trenton() {
   return {
+    name: "Trenton Allan"
     location: "Northeastern University",
+    major: Computer Science
+    concentration: Artificial Intelligence
     interests: ["machine_learning", "computational_intelligence", "elegant_algorithms"],
     status: "building_digital_architecture"
   };
