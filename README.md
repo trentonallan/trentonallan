@@ -1,4 +1,4 @@
 ## Hi there 👋
-I'm currently studying Computer Science & Business @ Northeastern University. I'm interested in using technology to develop winning business strategies and design creative interdisciplinary solutions for human challenges. Climate change, food and energy waste, unsustainable business practices -- let's figure this stuff out!
+My name is Trenton and I'm currently studying Computer Science & AI @ Northeastern University. I'm interested in using technology to design creative interdisciplinary solutions for human challenges.
 
 Feel free to reach out at allan.tr@northeastern.edu.
