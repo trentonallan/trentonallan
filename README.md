@@ -4,7 +4,7 @@
 function trenton() {
   return {
     name: "Trenton Allan",
-    school: "Northeastern University", //grad may 2028
+    school: "Northeastern University", //sept '24 -> may '28
     major: "Computer Science",
     concentration: "Artificial Intelligence",
     interests: ["machine_learning", "quantum_computing", "sustainable_development"],
