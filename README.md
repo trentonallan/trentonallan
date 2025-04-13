@@ -1,7 +1,7 @@
 # trenton_Allan()
 
 ```
-function trenton() {
+public static void trenton() {
   return {
     name: "Trenton Allan",
     school: "Northeastern University", //sept '24 -> may '28
