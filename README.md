@@ -7,7 +7,7 @@ function trenton() {
     school: "Northeastern University", //sept '24 -> may '28
     major: "Computer Science",
     concentration: "Artificial Intelligence",
-    interests: ["Machine Learning", "Quantum Computing", "Sustainable Development"],
+    interests: ["Machine Learning", "Software Engineering", "Sustainable Development"],
   };
 }
 ```
