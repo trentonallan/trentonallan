@@ -29,7 +29,7 @@ Languages:  Java • Python • JavaScript • Godot • Racket
 
 ```
 allan.tr@northeastern.edu
-https://linkedin.com/in/trentonallan
+www.linkedin.com/in/trenton-allan
 ```
 
 ---
