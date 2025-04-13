@@ -4,11 +4,10 @@
 function trenton() {
   return {
     name: "Trenton Allan",
-    school: "Northeastern University",
+    school: "Northeastern University", //grad may 2028
     major: "Computer Science",
     concentration: "Artificial Intelligence",
     interests: ["machine_learning", "quantum_computing", "sustainable_development"],
-    status: "building_digital_architecture"
   };
 }
 ```
