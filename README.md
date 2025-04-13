@@ -1,13 +1,13 @@
 # trenton_Allan()
 
 ```
-public static void trenton() {
+function trenton() {
   return {
     name: "Trenton Allan",
     school: "Northeastern University", //sept '24 -> may '28
     major: "Computer Science",
     concentration: "Artificial Intelligence",
-    interests: ["machine_learning", "quantum_computing", "sustainable_development"],
+    interests: ["Machine Learning", "Quantum Computing", "Sustainable Development"],
   };
 }
 ```
