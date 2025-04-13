@@ -4,17 +4,15 @@
 function trenton() {
   return {
     location: "Northeastern University",
-    interests: ["distributed_systems", "computational_intelligence", "elegant_algorithms"],
+    interests: ["machine_learning", "computational_intelligence", "elegant_algorithms"],
     status: "building_digital_architecture"
   };
 }
 ```
 
-## ⚡ Current Explorations
+## ⚡ Recent Interests
 
-- Architecting systems that breathe data
-- Teaching machines to see patterns humans miss
-- Crafting elegant network protocols that scale invisibly
+- Machine Learning
 
 ## 🧪 Laboratory
 
