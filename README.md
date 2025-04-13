@@ -23,7 +23,7 @@ Dartfrog is a high-performance and scalable HTTP/1.1 server implementation writt
 ## ⚙️ technical_Skills()
 
 ```
-Languages:  Java • Python • JavaScript • Godot • Racket
+Languages:  Java • Python • JavaScript • Godot • Racket • HTML/CSS
 ```
 
 ## 👋 contact_Me()
