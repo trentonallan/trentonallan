@@ -10,7 +10,7 @@ function trenton() {
 }
 ```
 
-## <🧪> = projects()
+## 🧪 = projects()
 
 ### 🐸 [Dartfrog](https://github.com/trentonallan/http-server-java/blob/333c0f852de37e0d3fc9ec056c8526ec3eb3d7ef/README.md)
 *An HTTP/1.1 server experiment*
