@@ -36,15 +36,6 @@ Machine Mind  : TensorFlow • PyTorch • Reinforcement Learning
 Infrastructure: AWS • Docker • Linux Internals
 ```
 
-## 📊 Digital Footprint
-
-![System Activity](https://github-readme-stats.vercel.app/api?username=trentonallan&show_icons=true&theme=radical&hide_border=true&border_radius=15)
-
-## 🌌 Philosophy
-
-"Systems that appear simple on the surface often conceal the most elegant complexity. 
-The best code reads like poetry and executes like mathematics."
-
 ## ↝ Transmission Vectors
 
 ```
