@@ -12,28 +12,15 @@ function trenton() {
 
 ## 🧪 Laboratory
 
-### 🐸 Dartfrog
-_An HTTP/1.1 server experiment_
+### 🐸 [Dartfrog](https://github.com/trentonallan/http-server-java/blob/333c0f852de37e0d3fc9ec056c8526ec3eb3d7ef/README.md)
+*An HTTP/1.1 server experiment*
 
 Dissecting the web's fundamental protocol by rebuilding it from first principles. Multi-threaded implementation with persistent connections, content compression, and protocol compliance.
-
-```java
-// The beauty of a clean socket connection
-Socket clientSocket = serverSocket.accept();
-clientSocket.setSoTimeout(SOCKET_TIMEOUT);
-new Thread(() -> handleClient(clientSocket)).start();
-```
-
-### [███████]
-_Details classified_
 
 ## ⚙️ Technical Arsenal
 
 ```
-Languages     : Java • Python • C++ • Haskell • Rust
-Architecture  : Distributed Systems • Concurrent Computing • API Design
-Machine Mind  : TensorFlow • PyTorch • Reinforcement Learning
-Infrastructure: AWS • Docker • Linux Internals
+Languages     : Java • Python • JavaScript • Godot • Racket
 ```
 
 ## ↝ Transmission Vectors
@@ -45,4 +32,4 @@ https://linkedin.com/in/trentonallan
 
 ---
 
-_Compiling reality from abstractions since 2001_
+*Compiling reality from abstractions since 2001*
