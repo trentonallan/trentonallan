@@ -18,7 +18,7 @@ function welcome_To_My_GitHub() {
 ### 🐸 [Dartfrog](https://github.com/trentonallan/dartfrog-java)
 *An HTTP/1.1 server experiment*
 
-Lightweight, multi-threaded HTTP/1.1 server implementation written in pure Java with no external dependencies. It features support for persistent connections, content compression, concurrent request handling, and a flexible file-serving system.
+Dartfrog is a high-performance and scalable HTTP/1.1 server implementation written in pure Java with no external dependencies. It's designed for performance and clarity, featuring asynchronous request handling via a thread pool.
 
 ## ⚙️ technical_Skills()
 
