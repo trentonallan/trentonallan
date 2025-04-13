@@ -17,7 +17,7 @@ function trenton() {
 
 Dissecting the web's fundamental protocol by rebuilding it from first principles. Multi-threaded implementation with persistent connections, content compression, and protocol compliance.
 
-## ⚙️ technical_Arsenal()
+## ⚙️ technical_Skills()
 
 ```
 Languages     : Java • Python • JavaScript • Godot • Racket
