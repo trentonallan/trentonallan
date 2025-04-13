@@ -1,4 +1,4 @@
-# <ℂ𝕊 × 𝔸𝕀> = trenton()
+# <ℂ𝕊 × 𝔸𝕀> trenton()
 
 ```
 function trenton() {
