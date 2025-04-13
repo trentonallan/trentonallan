@@ -14,7 +14,7 @@ function trenton() {
 
 ## 💻 my_Projects()
 
-### 🐸 [Dartfrog]([https://github.com/trentonallan/dartfrog-java])
+### 🐸 [Dartfrog](https://github.com/trentonallan/dartfrog-java)
 *An HTTP/1.1 server experiment*
 
 Lightweight, multi-threaded HTTP/1.1 server implementation written in pure Java with no external dependencies. It features support for persistent connections, content compression, concurrent request handling, and a flexible file-serving system.
