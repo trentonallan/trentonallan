@@ -1,7 +1,7 @@
 # trenton_Allan()
 
 ```
-function trenton() {
+function welcome_To_My_GitHub() {
   return {
     name: "Trenton Allan",
     school: "Northeastern University", //sept '24 -> may '28
