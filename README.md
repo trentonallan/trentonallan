@@ -7,7 +7,7 @@ function trenton() {
     school: "Northeastern University",
     major: "Computer Science",
     concentration: "Artificial Intelligence",
-    interests: ["machine_learning", "computational_intelligence", "elegant_algorithms"],
+    interests: ["machine_learning", "quantum_computing", "sustainable_development"],
     status: "building_digital_architecture"
   };
 }
