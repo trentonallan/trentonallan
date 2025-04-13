@@ -10,10 +10,6 @@ function trenton() {
 }
 ```
 
-## ⚡ Recent Interests
-
-- Machine Learning
-
 ## 🧪 Laboratory
 
 ### 🐸 Dartfrog
