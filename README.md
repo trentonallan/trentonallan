@@ -8,6 +8,7 @@ function trenton() {
     major: "Computer Science",
     concentration: "Artificial Intelligence",
     interests: ["Machine Learning", "Quantum Computing", "Sustainable Development"],
+    location: "Boston, MA"
   };
 }
 ```
