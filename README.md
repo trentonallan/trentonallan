@@ -4,11 +4,11 @@
 function welcome_To_My_GitHub() {
   return {
     name: "Trenton Allan",
+    location: "Boston, MA",
     school: "Northeastern University", //sept '24 -> may '28
     major: "Computer Science",
     concentration: "Artificial Intelligence",
-    interests: ["Machine Learning", "Quantum Computing", "Sustainable Development"],
-    location: "Boston, MA"
+    interests: ["Machine Learning", "Quantum Computing", "Sustainable Development"]
   };
 }
 ```
