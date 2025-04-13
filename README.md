@@ -1,4 +1,4 @@
-# trenton_Allan() <ℂ𝕊 × 𝔸𝕀> 
+# trenton_Allan()
 
 ```
 function trenton() {
