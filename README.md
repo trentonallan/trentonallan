@@ -16,7 +16,7 @@ function welcome_To_My_GitHub() {
 ## 💻 my_Projects()
 
 ### 🐸 [Dartfrog](https://github.com/trentonallan/dartfrog-java)
-*Java • HTTP • Network Programming*
+*Java • HTTP/1.1 • Network Programming*
 
 Dartfrog is a high-performance and scalable HTTP/1.1 server implementation written in pure Java with no external dependencies. It's designed for performance and clarity, featuring asynchronous request handling via a thread pool.
 
