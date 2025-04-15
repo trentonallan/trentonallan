@@ -16,12 +16,12 @@ function welcome_To_My_GitHub() {
 ## 💻 my_Projects()
 
 ### 🐸 [Dartfrog](https://github.com/trentonallan/dartfrog-java)
-*Network Programming • Java • HTTP*
+*Java • HTTP • Network Programming*
 
 Dartfrog is a high-performance and scalable HTTP/1.1 server implementation written in pure Java with no external dependencies. It's designed for performance and clarity, featuring asynchronous request handling via a thread pool.
 
 ### 🌐 [NumPy Neural Network](https://github.com/trentonallan/neural-network-py)
-*ML • Python • NumPy*
+*MLPython • NumPy • ML*
 
 A simple implementation of a neural network built from scratch using only NumPy. This project demonstrates the fundamental concepts of neural networks without relying on deep learning frameworks.
 
