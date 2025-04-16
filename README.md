@@ -25,6 +25,11 @@ Dartfrog is a high-performance and scalable HTTP/1.1 server implementation writt
 
 A simple implementation of a neural network built from scratch using only NumPy. This project demonstrates the fundamental concepts of neural networks without relying on deep learning frameworks.
 
+### 🌐 [Curio ML](https://github.com/trentonallan/curio)
+*Python • NumPy • ML*
+
+Coming soon!
+
 ## ⚙️ technical_Skills()
 
 ```
