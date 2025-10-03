@@ -8,7 +8,7 @@ function welcome_To_My_GitHub() {
     school: "Northeastern University", //expected graduation: may '28
     major: "Computer Science",
     concentration: "Artificial Intelligence",
-    interests: ["Machine Learning", "Backend Development", "Sustainable Development"]
+    interests: ["Machine Learning", "Backend Development", "Sustainable Design"]
   };
 }
 ```
