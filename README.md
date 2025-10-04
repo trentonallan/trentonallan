@@ -8,7 +8,7 @@ function welcome_To_My_GitHub() {
     school: "Northeastern University", //expected graduation: may '28
     major: "Computer Science",
     concentration: "Artificial Intelligence",
-    interests: ["Machine Learning", "Backend Development", "Sustainable Design"]
+    interests: ["Machine Learning", "Backend Development", "Sustainable Design", "Systems Thinking"]
   };
 }
 ```
@@ -33,14 +33,16 @@ Coming soon!
 ## ⚙️ technical_Skills()
 
 ```
-Languages:  Java • Python • JavaScript • Godot • Racket • HTML/CSS
+Languages: Java • Python • JavaScript • HTML/CSS • Racket • Godot
+Tools & Frameworks: Git/GitHub • Linux • NumPy • Jupyter • Node.js • React.js • IntelliJ IDEA • VS Code
+Skills: Object-Oriented Design • Debugging & Unit Testing • Machine Learning Fundamentals • Backend & Full-Stack Development
 ```
 
 ## 👋 contact_Me()
 
 ```
-allan.tr@northeastern.edu
-www.linkedin.com/in/trentonallan
+Email: allan.tr@northeastern.edu
+LinkedIn: www.linkedin.com/in/trentonallan
 ```
 
 ---
