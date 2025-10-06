@@ -23,7 +23,7 @@
     }
   </style>
   
-  <g transform="translate(0, 5)">
+  <g>
     <!-- Brain with more recognizable shape -->
     <g class="brain-glow">
       <!-- Multiple rounded bumps on top (characteristic of brain) -->
