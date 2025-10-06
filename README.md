@@ -18,10 +18,8 @@ class TrentonAllan:
     def __init__(self):
         self.location = "Boston, MA"
         self.education = "Northeastern University '28"
-        self.gpa = 3.75
         self.focus = ["Distributed Systems", "Backend Architecture", "ML Fundamentals"]
         self.currently = "Building @ Oasis NEU | Seeking Jan-Aug 2026 Co-op"
-        self.philosophy = "Build it from scratch to truly understand it"
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
