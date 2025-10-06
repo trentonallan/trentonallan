@@ -1,6 +1,6 @@
 # Trenton Allan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=6E7681&vCenter=true&width=600&height=20&lines=Backend+Engineer+%40+Oasis+NEU;Building+distributed+systems+from+scratch;Northeastern+CS+'28)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=6E7681&vCenter=true&width=600&height=20&lines=Backend+Engineer+%40+Oasis+NEU;Building+production+systems+from+scratch;Northeastern+CS+'28)](https://git.io/typing-svg)
 
 Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series building peer-to-peer marketplace infrastructure. Sophomore CS @ Northeastern with AI concentration.
 
