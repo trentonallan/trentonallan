@@ -20,7 +20,7 @@ Sophomore CS @ Northeastern with AI concentration.
    
   - RFC-compliant request parsing with persistent connections and pipelining
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
-  - 10K+ concurrent connections with zero external dependencies
+  - Persistent concurrent connections with zero external dependencies
 
 - <img src="brain.svg" width="32" height="32" align="middle"/> **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation 
   - Manually computed all 12 partial derivatives through backpropagation
