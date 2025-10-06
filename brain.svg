@@ -81,7 +81,7 @@
     }
   </style>
   
-  <g transform="translate(0, 5)">
+  <g>
     <!-- Brain base -->
     <g class="brain-glow">
       <!-- Multiple rounded bumps on top -->
