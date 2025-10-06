@@ -1,72 +1,123 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes pulse {
-      0%, 43% { opacity: 0; }
-      44%, 47% { opacity: 1; }
-      48%, 100% { opacity: 0; }
+    /* Small pulses matching each frog hop */
+    @keyframes smallPulse {
+      0%, 14% { opacity: 0; }
+      15%, 16% { opacity: 0.7; }  /* First hop */
+      17%, 44% { opacity: 0; }
+      45%, 46% { opacity: 0.5; }  /* Small hop */
+      47%, 72% { opacity: 0; }
+      73%, 74% { opacity: 0.7; }  /* Big hop */
+      75%, 100% { opacity: 0; }
     }
     
-    @keyframes glow {
-      0%, 42% { filter: brightness(1); }
-      44%, 47% { filter: brightness(1.2); }
-      48%, 100% { filter: brightness(1); }
+    /* Big spark burst when tongue comes out (45%) */
+    @keyframes bigBurst {
+      0%, 44% { opacity: 0; transform: scale(1); }
+      45% { opacity: 1; transform: scale(1); }
+      46% { opacity: 1; transform: scale(1.2); }
+      47% { opacity: 0.8; transform: scale(1.1); }
+      48%, 100% { opacity: 0; transform: scale(1); }
     }
     
-    .electric-pulse {
-      animation: pulse 5s ease-in-out infinite;
-      animation-delay: 0s;
+    /* Particles that fly out during tongue/burst */
+    @keyframes sparkFly {
+      0%, 44% { opacity: 0; transform: translate(0, 0); }
+      45% { opacity: 1; transform: translate(0, 0); }
+      47% { opacity: 0.5; transform: translate(3px, -3px); }
+      50% { opacity: 0; transform: translate(6px, -6px); }
+      51%, 100% { opacity: 0; transform: translate(0, 0); }
+    }
+    
+    @keyframes sparkFly2 {
+      0%, 44% { opacity: 0; transform: translate(0, 0); }
+      45% { opacity: 1; transform: translate(0, 0); }
+      47% { opacity: 0.5; transform: translate(-3px, -3px); }
+      50% { opacity: 0; transform: translate(-6px, -6px); }
+      51%, 100% { opacity: 0; transform: translate(0, 0); }
+    }
+    
+    @keyframes sparkFly3 {
+      0%, 44% { opacity: 0; transform: translate(0, 0); }
+      45% { opacity: 1; transform: translate(0, 0); }
+      47% { opacity: 0.5; transform: translate(4px, 2px); }
+      50% { opacity: 0; transform: translate(8px, 4px); }
+      51%, 100% { opacity: 0; transform: translate(0, 0); }
+    }
+    
+    @keyframes brainGlow {
+      0%, 14% { filter: brightness(1); }
+      15%, 16% { filter: brightness(1.1); }  /* Glow on hops */
+      17%, 44% { filter: brightness(1); }
+      45%, 47% { filter: brightness(1.3); }  /* Big glow on tongue */
+      48%, 72% { filter: brightness(1); }
+      73%, 74% { filter: brightness(1.1); }
+      75%, 100% { filter: brightness(1); }
+    }
+    
+    .small-pulses {
+      animation: smallPulse 5s ease-in-out infinite;
+    }
+    
+    .big-burst {
+      animation: bigBurst 5s ease-in-out infinite;
+      transform-origin: center;
+    }
+    
+    .spark-particle-1 {
+      animation: sparkFly 5s ease-in-out infinite;
+    }
+    
+    .spark-particle-2 {
+      animation: sparkFly2 5s ease-in-out infinite;
+    }
+    
+    .spark-particle-3 {
+      animation: sparkFly3 5s ease-in-out infinite;
     }
     
     .brain-glow {
-      animation: glow 5s ease-in-out infinite;
-      animation-delay: 0s;
+      animation: brainGlow 5s ease-in-out infinite;
     }
   </style>
   
-  <g>
-    <!-- Brain with more recognizable shape -->
+  <g transform="translate(0, 5)">
+    <!-- Brain base -->
     <g class="brain-glow">
-      <!-- Multiple rounded bumps on top (characteristic of brain) -->
+      <!-- Multiple rounded bumps on top -->
       <rect x="9" y="3" width="3" height="1" fill="#ff6b9d"/>
       <rect x="13" y="2" width="3" height="1" fill="#ff6b9d"/>
       <rect x="17" y="3" width="3" height="1" fill="#ff6b9d"/>
       <rect x="21" y="3" width="3" height="1" fill="#ff6b9d"/>
       
-      <!-- Second row of bumps -->
       <rect x="8" y="4" width="5" height="1" fill="#ff6b9d"/>
       <rect x="12" y="3" width="5" height="1" fill="#ff6b9d"/>
       <rect x="16" y="4" width="5" height="1" fill="#ff6b9d"/>
       <rect x="20" y="4" width="5" height="1" fill="#ff6b9d"/>
       
-      <!-- Main rounded top -->
       <rect x="7" y="5" width="19" height="1" fill="#ff6b9d"/>
       <rect x="6" y="6" width="21" height="1" fill="#ff6b9d"/>
       
-      <!-- Characteristic bulging middle -->
       <rect x="5" y="7" width="23" height="1" fill="#ff6b9d"/>
       <rect x="5" y="8" width="23" height="1" fill="#ff6b9d"/>
       <rect x="5" y="9" width="23" height="1" fill="#ff6b9d"/>
       <rect x="6" y="10" width="21" height="1" fill="#ff6b9d"/>
       <rect x="6" y="11" width="21" height="1" fill="#ff6b9d"/>
       
-      <!-- Tapering lower portion -->
       <rect x="7" y="12" width="19" height="1" fill="#ff6b9d"/>
       <rect x="8" y="13" width="17" height="1" fill="#ff6b9d"/>
       <rect x="9" y="14" width="15" height="1" fill="#ff6b9d"/>
       <rect x="11" y="15" width="11" height="1" fill="#ff6b9d"/>
       
-      <!-- Small brain stem -->
       <rect x="14" y="16" width="5" height="1" fill="#ff6b9d"/>
       <rect x="15" y="17" width="3" height="1" fill="#ff6b9d"/>
       
-      <!-- Characteristic squiggly brain folds all over -->
-      <!-- Top folds -->
+      <!-- Brain folds -->
       <rect x="10" y="4" width="2" height="1" fill="#e05589"/>
       <rect x="14" y="3" width="1" height="2" fill="#e05589"/>
       <rect x="18" y="4" width="2" height="1" fill="#e05589"/>
       <rect x="22" y="5" width="2" height="1" fill="#e05589"/>
       
-      <!-- Major curved grooves (like real brain sulci) -->
       <rect x="8" y="6" width="3" height="1" fill="#e05589"/>
       <rect x="9" y="7" width="2" height="1" fill="#e05589"/>
       <rect x="10" y="8" width="2" height="1" fill="#e05589"/>
@@ -75,50 +126,55 @@
       <rect x="20" y="7" width="2" height="1" fill="#e05589"/>
       <rect x="21" y="8" width="2" height="1" fill="#e05589"/>
       
-      <!-- Central folds -->
       <rect x="13" y="7" width="2" height="1" fill="#e05589"/>
       <rect x="14" y="8" width="3" height="1" fill="#e05589"/>
       <rect x="15" y="9" width="2" height="1" fill="#e05589"/>
       
-      <!-- Lower folds -->
       <rect x="7" y="10" width="3" height="1" fill="#e05589"/>
       <rect x="12" y="11" width="2" height="1" fill="#e05589"/>
       <rect x="18" y="10" width="3" height="1" fill="#e05589"/>
       <rect x="20" y="12" width="2" height="1" fill="#e05589"/>
-      <rect x="11" y="13" width="3" height="1" fill="#e05589"/>
-      <rect x="17" y="13" width="2" height="1" fill="#e05589"/>
       
-      <!-- Purple depth for center (subtle) -->
+      <!-- Purple depth -->
       <rect x="15" y="5" width="1" height="1" fill="#d64979"/>
       <rect x="16" y="6" width="1" height="2" fill="#d64979"/>
       <rect x="15" y="8" width="1" height="1" fill="#d64979"/>
       <rect x="16" y="9" width="1" height="2" fill="#d64979"/>
-      <rect x="15" y="11" width="1" height="1" fill="#d64979"/>
-      
-      <!-- Light pink highlights -->
-      <rect x="11" y="5" width="1" height="1" fill="#ffa4c4"/>
-      <rect x="20" y="6" width="1" height="1" fill="#ffa4c4"/>
-      <rect x="24" y="8" width="1" height="1" fill="#ffa4c4"/>
     </g>
     
-    <!-- Electric pulse -->
-    <g class="electric-pulse">
-      <!-- Lightning across surface -->
-      <rect x="12" y="2" width="2" height="1" fill="#ffeb3b"/>
-      <rect x="14" y="3" width="2" height="1" fill="#fff"/>
-      <rect x="16" y="4" width="2" height="1" fill="#ffeb3b"/>
-      <rect x="17" y="5" width="2" height="1" fill="#fff59d"/>
-      <rect x="18" y="6" width="2" height="1" fill="#ffeb3b"/>
-      
-      <!-- Side sparks -->
-      <rect x="9" y="5" width="1" height="1" fill="#fff59d"/>
-      <rect x="23" y="7" width="1" height="1" fill="#fff59d"/>
-      <rect x="11" y="9" width="1" height="1" fill="#ffeb3b"/>
-      <rect x="22" y="10" width="1" height="1" fill="#ffeb3b"/>
-      
-      <!-- Particles -->
-      <rect x="7" y="4" width="1" height="1" fill="#fff"/>
-      <rect x="26" y="8" width="1" height="1" fill="#fff"/>
+    <!-- Small pulses on each hop -->
+    <g class="small-pulses">
+      <rect x="12" y="5" width="1" height="1" fill="#fff59d"/>
+      <rect x="19" y="6" width="1" height="1" fill="#fff59d"/>
+      <rect x="10" y="9" width="1" height="1" fill="#ffeb3b"/>
+      <rect x="22" y="8" width="1" height="1" fill="#ffeb3b"/>
+    </g>
+    
+    <!-- Big central burst when tongue comes out -->
+    <g class="big-burst">
+      <rect x="14" y="3" width="3" height="1" fill="#ffeb3b"/>
+      <rect x="15" y="4" width="2" height="1" fill="#fff"/>
+      <rect x="13" y="5" width="5" height="1" fill="#ffeb3b"/>
+      <rect x="14" y="6" width="4" height="1" fill="#fff59d"/>
+      <rect x="15" y="7" width="3" height="1" fill="#ffeb3b"/>
+    </g>
+    
+    <!-- Flying spark particles -->
+    <g class="spark-particle-1">
+      <rect x="11" y="4" width="1" height="1" fill="#fff"/>
+      <rect x="8" y="7" width="1" height="1" fill="#fff59d"/>
+    </g>
+    
+    <g class="spark-particle-2">
+      <rect x="20" y="4" width="1" height="1" fill="#fff"/>
+      <rect x="24" y="7" width="1" height="1" fill="#fff59d"/>
+    </g>
+    
+    <g class="spark-particle-3">
+      <rect x="16" y="2" width="1" height="1" fill="#fff"/>
+      <rect x="16" y="10" width="1" height="1" fill="#ffeb3b"/>
+      <rect x="12" y="12" width="1" height="1" fill="#fff59d"/>
+      <rect x="20" y="12" width="1" height="1" fill="#fff59d"/>
     </g>
     
     <!-- Shadow -->
