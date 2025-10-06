@@ -20,7 +20,7 @@ Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series buil
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
   - 10K+ concurrent connections with zero external dependencies
 
-- **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)<img src="brain.svg" width="32" height="32" align="middle"/>** - Pure NumPy implementation 
+- **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)  <img src="brain.svg" width="32" height="32" align="middle"/>**  - Pure NumPy implementation 
   - Manually computed all 12 partial derivatives through backpropagation
   - Achieved convergent loss through hand-coded gradient descent
   - Binary classifier without ML frameworks or autograd
