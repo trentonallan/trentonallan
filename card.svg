@@ -1,0 +1,102 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Card swipes smoothly along bottom */
+    @keyframes cardSwipe {
+      0%, 44% { transform: translateX(0px); }
+      45% { transform: translateX(0px); }
+      47% { transform: translateX(3px); }
+      49% { transform: translateX(6px); }
+      51% { transform: translateX(9px); }
+      53% { transform: translateX(11px); }
+      54%, 56% { transform: translateX(11px); } /* Pause for approval */
+      58% { transform: translateX(8px); }
+      60% { transform: translateX(4px); }
+      62% { transform: translateX(0px); }
+      63%, 100% { transform: translateX(0px); }
+    }
+    
+    /* Checkmark appears when card is fully swiped */
+    @keyframes approved {
+      0%, 53% { opacity: 0; transform: scale(0); }
+      54% { opacity: 1; transform: scale(1.2); }
+      55% { opacity: 1; transform: scale(1); }
+      56% { opacity: 1; transform: scale(1); }
+      57%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    /* Reader light */
+    @keyframes readerLight {
+      0%, 44% { fill: #6b7280; }
+      45%, 53% { fill: #fbbf24; }
+      54%, 56% { fill: #10b981; }
+      57%, 100% { fill: #6b7280; }
+    }
+    
+    .credit-card {
+      animation: cardSwipe 5s ease-in-out infinite;
+    }
+    
+    .checkmark {
+      animation: approved 5s ease-out infinite;
+    }
+    
+    .reader-light {
+      animation: readerLight 5s ease-in-out infinite;
+    }
+  </style>
+  
+  <!-- Card and reader positioned lower and bigger -->
+  <g transform="translate(0, 8)">
+    <!-- Card reader slot along the bottom -->
+    <rect x="18" y="11" width="12" height="6" fill="#1f2937"/>
+    <rect x="19" y="12" width="10" height="4" fill="#374151"/>
+    
+    <!-- Slot opening -->
+    <rect x="17" y="13" width="2" height="2" fill="#000"/>
+    
+    <!-- Reader screen -->
+    <rect x="24" y="12" width="4" height="2" fill="#111827"/>
+    <rect x="26" y="14" width="2" height="1" class="reader-light"/>
+    
+    <!-- Credit card (much bigger) -->
+    <g class="credit-card">
+      <!-- Card body -->
+      <rect x="2" y="7" width="16" height="10" fill="#3b82f6"/>
+      
+      <!-- Card shine/gradient -->
+      <rect x="3" y="8" width="14" height="8" fill="#60a5fa" opacity="0.5"/>
+      
+      <!-- Chip -->
+      <rect x="5" y="9" width="4" height="3" fill="#fbbf24"/>
+      <rect x="6" y="9" width="2" height="3" fill="#f59e0b"/>
+      
+      <!-- Magnetic stripe -->
+      <rect x="2" y="12" width="16" height="2" fill="#1f2937"/>
+      
+      <!-- Card numbers (bigger dots) -->
+      <rect x="5" y="14" width="2" height="1" fill="#2563eb"/>
+      <rect x="8" y="14" width="2" height="1" fill="#2563eb"/>
+      <rect x="11" y="14" width="2" height="1" fill="#2563eb"/>
+      <rect x="14" y="14" width="2" height="1" fill="#2563eb"/>
+      
+      <!-- Card logo -->
+      <rect x="13" y="9" width="3" height="2" fill="#fff" opacity="0.8"/>
+      
+      <!-- Card name line -->
+      <rect x="5" y="15" width="4" height="1" fill="#1e40af"/>
+    </g>
+    
+    <!-- Approved checkmark appears above reader -->
+    <g class="checkmark">
+      <!-- Green circle -->
+      <rect x="20" y="5" width="8" height="8" fill="#10b981" rx="4"/>
+      <rect x="21" y="6" width="6" height="6" fill="#34d399" rx="3"/>
+      
+      <!-- White checkmark -->
+      <rect x="23" y="8" width="1" height="2" fill="#fff"/>
+      <rect x="24" y="9" width="1" height="2" fill="#fff"/>
+      <rect x="25" y="8" width="1" height="2" fill="#fff"/>
+      <rect x="26" y="7" width="1" height="2" fill="#fff"/>
+    </g>
+  </g>
+</svg>
