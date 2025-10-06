@@ -14,10 +14,12 @@
     
     .electric-pulse {
       animation: pulse 5s ease-in-out infinite;
+      animation-delay: 0s;
     }
     
     .brain-glow {
       animation: glow 5s ease-in-out infinite;
+      animation-delay: 0s;
     }
   </style>
   
