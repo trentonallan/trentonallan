@@ -1,32 +1,62 @@
 # Trenton Allan
 
-Currently building the backend for [Oasis](https://github.com/oasis-neu), a peer-to-peer marketplace serving 75+ users. Sophomore CS @ Northeastern.
+Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) building peer-to-peer marketplace infrastructure. Sophomore CS @ Northeastern with AI concentration.
 
 **Seeking January-August 2026 co-op opportunities.**
 
-## Recent Work
+## Current Work
 
-- **[Oasis Backend](https://github.com/oasis-neu/backend)** - Production Node.js microservices handling 500+ daily transactions
-- **[Dartfrog](https://github.com/trentonallan/dartfrog)** - HTTP/1.1 server from scratch in Java (zero dependencies)
-- **[Neural Network](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation achieving 96% MNIST accuracy
-- **Open Source** - Fixed critical date bug in [node-postgres](https://github.com/brianc/node-postgres) (11K+ stars)
+**[Oasis Project Series](https://github.com/oasis-neu)** - Leading backend development for P2P local thrifting marketplace
+- Architecting Node.js microservices supporting 75+ beta users and 500+ daily API requests
+- Implementing real-time inventory updates with concurrent session management
+- Driving technical decisions on database schema, API structure, and authentication flow
+- Coordinating with 5-person agile team delivering features in weekly sprints
 
-## What I Build
+## Recent Projects
 
-I enjoy implementing everything from scratch at least once to understand it deeply. Recent projects include multi-threaded web servers, distributed systems, and machine learning algorithms without frameworks.
+- **[Dartfrog](https://github.com/trentonallan/dartfrog)** - Multi-threaded HTTP/1.1 server built from scratch in Java
+  - RFC-compliant request parsing with persistent connections and pipelining
+  - Optimized with non-blocking sockets, gzip compression, and connection pooling
+  - 10K+ concurrent connections with zero external dependencies
 
-## Technical Foundation
+- **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation 
+  - Manually computed all 12 partial derivatives through backpropagation
+  - Achieved convergent loss through hand-coded gradient descent
+  - Binary classifier without ML frameworks or autograd
 
-- **Languages:** Java, Python, JavaScript/Node.js, C, SQL
-- **Production:** PostgreSQL, Docker, Linux, microservices, REST APIs
-- **Concepts:** Concurrent programming, TCP/IP, database design, ACID compliance
+- **[Credit Card System Simulator](https://github.com/trentonallan/credit-simulator)** - Object-oriented financial modeling
+  - APR calculations, payment processing, dynamic credit limits
+  - Test suite ensuring accuracy to 4 decimal places
+
+## Open Source Contributions
+
+Fixed critical date serialization bug in [node-postgres](https://github.com/brianc/node-postgres) (11K+ stars) that was corrupting PostgreSQL database entries
+
+## Technical Skills
+
+- **Languages:** Java, Python, JavaScript/Node.js, HTML/CSS, Racket, SQL
+- **Backend & Systems:** Express.js, PostgreSQL, RESTful APIs, microservices, CI/CD pipelines
+- **Tools:** Git/GitHub, Linux, Docker, NumPy, Jupyter, React.js, IntelliJ IDEA, VS Code
+- **Core Concepts:** Object-oriented design, concurrent programming, database design, unit testing, machine learning fundamentals
+
+## Experience
+
+**Technical Program Lead** - Cape Cod Theatre Company (Summers 2021-2023)
+- Designed inventory system for 4,000+ assets using database principles
+- Facilitated technical programs with 100% on-time delivery
+- Mentored 50+ students per season
+- Selected as "Most Valuable Intern" among 20+ candidates
 
 ## Recognition
 
-- Dean's List (3.75 GPA)
-- Selected as Backend Engineer for Oasis NEU from competitive applicant pool
-- "Most Valuable Intern" among 20+ candidates at Cape Cod Theatre Company
+- Dean's List 2024, 2025 (3.75 GPA)
+- Leveraging AI for Business Certification - Northeastern University
+- Seal of Biliteracy (Spanish & English)
+
+## Current Coursework
+
+Program Design & Implementation 2, Fundamentals of Computer Science, Discrete Structures, Foundations of Cybersecurity, Mathematical Reasoning
 
 ## Contact
 
-[allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [Resume](https://github.com/trentonallan/trentonallan/blob/main/resume.pdf)
+[allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [GitHub](https://github.com/trentonallan)
