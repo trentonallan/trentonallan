@@ -14,13 +14,13 @@ Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series buil
 
 ## Recent Projects
 
-- **[Dartfrog](https://github.com/trentonallan/dartfrog)<img src="frog.svg" width="32" height="32" align="text-bottom" />** - Multi-threaded HTTP/1.1 server built from scratch in Java - Multi-threaded HTTP/1.1 server built from scratch in Java
+- **[Dartfrog](https://github.com/trentonallan/dartfrog)<img src="frog.svg" width="32" height="32" align="text-bottom"/>** - Multi-threaded HTTP/1.1 server built from scratch in Java - Multi-threaded HTTP/1.1 server built from scratch in Java
    
   - RFC-compliant request parsing with persistent connections and pipelining
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
   - 10K+ concurrent connections with zero external dependencies
 
-- **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)<img src="brain.svg" width="32" height="32" align="text-bottom"" />** - Pure NumPy implementation 
+- **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)<img src="brain.svg" width="32" height="32" align="text-bottom"/>** - Pure NumPy implementation 
   - Manually computed all 12 partial derivatives through backpropagation
   - Achieved convergent loss through hand-coded gradient descent
   - Binary classifier without ML frameworks or autograd
