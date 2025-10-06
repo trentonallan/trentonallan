@@ -25,7 +25,7 @@ Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series buil
   - Achieved convergent loss through hand-coded gradient descent
   - Binary classifier without ML frameworks or autograd
 
-- **[Credit Card System Simulator](https://github.com/trentonallan/credit-simulator)** - Object-oriented financial modeling
+- **[Credit Card System Simulator](https://github.com/trentonallan/credit-simulator)  <img src="card.svg" width="32" height="32" align="middle"/>** - Object-oriented financial modeling
   - APR calculations, payment processing, dynamic credit limits
   - Test suite ensuring accuracy to 4 decimal places
 
