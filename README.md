@@ -1,6 +1,7 @@
 # Trenton Allan
 
-Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series building peer-to-peer marketplace infrastructure. Sophomore CS @ Northeastern with AI concentration.
+Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series building peer-to-peer marketplace infrastructure. 
+Sophomore CS @ Northeastern with AI concentration.
 
 **Seeking January-August 2026 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]
 
