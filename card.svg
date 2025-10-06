@@ -1,6 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Card swipes smoothly along bottom */
+    /* Card swipes along bottom */
     @keyframes cardSwipe {
       0%, 44% { transform: translateX(0px); }
       45% { transform: translateX(0px); }
@@ -58,12 +58,12 @@
     <rect x="24" y="12" width="4" height="2" fill="#111827"/>
     <rect x="26" y="14" width="2" height="1" class="reader-light"/>
     
-    <!-- Credit card (much bigger) -->
+    <!-- Credit card -->
     <g class="credit-card">
       <!-- Card body -->
       <rect x="2" y="7" width="16" height="10" fill="#3b82f6"/>
       
-      <!-- Card shine/gradient -->
+      <!-- Card shine -->
       <rect x="3" y="8" width="14" height="8" fill="#60a5fa" opacity="0.5"/>
       
       <!-- Chip -->
