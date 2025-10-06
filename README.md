@@ -1,45 +1,32 @@
-<div align="center">
+# Trenton Allan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=ffffff&background=0D1117&center=true&vCenter=true&width=500&lines=Trenton+Allan;Backend+Engineer+%40+Oasis;Northeastern+CS+'28)](https://git.io/typing-svg)
+Currently building the backend for [Oasis](https://github.com/oasis-neu), a peer-to-peer marketplace serving 75+ users. Sophomore CS @ Northeastern.
 
-</div>
+**Seeking January-August 2026 co-op opportunities.**
 
-```javascript
-// Currently: Building distributed systems @ Oasis (75+ users, 500+ daily transactions)
-// Seeking: January - August 2026 Co-op
-// Location: Boston, MA
-```
+## Recent Work
 
-## Production Experience
+- **[Oasis Backend](https://github.com/oasis-neu/backend)** - Production Node.js microservices handling 500+ daily transactions
+- **[Dartfrog](https://github.com/trentonallan/dartfrog)** - HTTP/1.1 server from scratch in Java (zero dependencies)
+- **[Neural Network](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation achieving 96% MNIST accuracy
+- **Open Source** - Fixed critical date bug in [node-postgres](https://github.com/brianc/node-postgres) (11K+ stars)
 
-**[Oasis](https://github.com/oasis-neu)** — Live peer-to-peer marketplace  
-Architecting Node.js microservices handling concurrent transactions.
+## What I Build
 
-**Open Source** — [Fixed critical bug in node-postgres](https://github.com/brianc/node-postgres) (11K★)  
-Identified and patched date serialization issue corrupting production database entries.
-
-## Built From Scratch
-
-**[Dartfrog](https://github.com/trentonallan/dartfrog)** — HTTP/1.1 server, zero dependencies  
-Multi-threaded Java implementation supporting persistent concurrent connections. Hand-rolled request parser, connection pooling, NIO selectors. Fully RFC-compliant.
-
-**[Neural Network](https://github.com/trentonallan/neural-network-py)** — Pure NumPy, no frameworks  
-Implemented backpropagation computing all partial derivatives manually. 96% MNIST accuracy without ML libraries.
+I implement everything from scratch at least once to understand it deeply. Recent projects include multi-threaded web servers, distributed systems, and machine learning algorithms without frameworks.
 
 ## Technical Foundation
 
-```
-Systems:     Java, C, Python, JavaScript, SQL
-Production:  Node.js, PostgreSQL, Linux, microservices, REST APIs
-Concepts:    Concurrent programming, TCP/IP, database design, distributed systems
-```
+- **Languages:** Java, Python, JavaScript/Node.js, C, SQL
+- **Production:** PostgreSQL, Docker, Linux, microservices, REST APIs
+- **Concepts:** Concurrent programming, TCP/IP, database design, ACID compliance
 
 ## Recognition
 
----
+- Dean's List (3.75 GPA)
+- Selected as Backend Engineer for Oasis NEU from competitive applicant pool
+- "Most Valuable Intern" among 20+ candidates at Cape Cod Theatre Company
 
-<div align="center">
+## Contact
 
 [allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [Resume](https://github.com/trentonallan/trentonallan/blob/main/resume.pdf)
-
-</div>
