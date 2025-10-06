@@ -49,13 +49,13 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Recognition
 
-- Dean's List 2024, 2025 (3.75 GPA)
+- Dean's List 2024, 2025
 - Leveraging AI for Business Certification - Northeastern University
 - Seal of Biliteracy (Spanish & English)
 
-## Current Coursework
+## Relevant Coursework
 
-Program Design & Implementation 2, Fundamentals of Computer Science, Discrete Structures, Foundations of Cybersecurity, Mathematical Reasoning
+Program Design & Implementation 2, Fundamentals of Computer Science 1 and 2, Discrete Structures, Foundations of Cybersecurity, Mathematical Reasoning
 
 ## Contact
 
