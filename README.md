@@ -60,4 +60,4 @@ Program Design & Implementation 2, Fundamentals of Computer Science 1 and 2, Dis
 
 ## Contact
 
-[allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [GitHub](https://github.com/trentonallan) · [my resume](Trenton-Allan-Resume.pdf)
+[allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [GitHub](https://github.com/trentonallan) · [Resume](Trenton-Allan-Resume.pdf)
