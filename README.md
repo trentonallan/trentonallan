@@ -14,18 +14,18 @@ Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series buil
 
 ## Recent Projects
 
-- <img src="frog.svg" width="32" height="32"/> **[Dartfrog](https://github.com/trentonallan/dartfrog)** - Multi-threaded HTTP/1.1 server built from scratch in Java - Multi-threaded HTTP/1.1 server built from scratch in Java
+- <img src="frog.svg" width="32" height="32" align="middle"/> **[Dartfrog](https://github.com/trentonallan/dartfrog)** - Multi-threaded HTTP/1.1 server built from scratch in Java - Multi-threaded HTTP/1.1 server built from scratch in Java
    
   - RFC-compliant request parsing with persistent connections and pipelining
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
   - 10K+ concurrent connections with zero external dependencies
 
-- **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)  <img src="brain.svg" width="32" height="32"/>**  - Pure NumPy implementation 
+- <img src="brain.svg" width="32" height="32" align="middle"/> **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation 
   - Manually computed all 12 partial derivatives through backpropagation
   - Achieved convergent loss through hand-coded gradient descent
   - Binary classifier without ML frameworks or autograd
 
-- **[Credit Card System Simulator](https://github.com/trentonallan/credit-simulator)  <img src="card.svg" width="32" height="32" align="middle"/>** - Object-oriented financial modeling
+- <img src="card.svg" width="32" height="32" align="middle"/> **[Credit Card System Simulator](https://github.com/trentonallan/credit-simulator)** - Object-oriented financial modeling
   - APR calculations, payment processing, dynamic credit limits
   - Test suite ensuring accuracy to 4 decimal places
 
