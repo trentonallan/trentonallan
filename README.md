@@ -2,7 +2,7 @@
 
 Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series building peer-to-peer marketplace infrastructure. Sophomore CS @ Northeastern with AI concentration.
 
-**Seeking January-August 2026 co-op opportunities.** ([Check out my resume!](Trenton-Allan-Resume.pdf))
+**Seeking January-August 2026 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]
 
 ## Current Work
 
@@ -60,4 +60,4 @@ Program Design & Implementation 2, Fundamentals of Computer Science 1 and 2, Dis
 
 ## Contact
 
-[allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [GitHub](https://github.com/trentonallan) · [Resume](Trenton-Allan-Resume.pdf)
+[allan.tr@northeastern.edu](mailto:allan.tr@northeastern.edu) · [LinkedIn](https://linkedin.com/in/trentonallan) · [GitHub](https://github.com/trentonallan)
