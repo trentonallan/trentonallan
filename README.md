@@ -14,7 +14,7 @@ Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series buil
 
 ## Recent Projects
 
-- **[Dartfrog](https://github.com/trentonallan/dartfrog)  <img src="frog.svg" width="32" height="32"/>**  - Multi-threaded HTTP/1.1 server built from scratch in Java - Multi-threaded HTTP/1.1 server built from scratch in Java
+- <img src="frog.svg" width="32" height="32"/> **[Dartfrog](https://github.com/trentonallan/dartfrog)** - Multi-threaded HTTP/1.1 server built from scratch in Java - Multi-threaded HTTP/1.1 server built from scratch in Java
    
   - RFC-compliant request parsing with persistent connections and pipelining
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
