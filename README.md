@@ -13,7 +13,7 @@ Currently building the backend for [Oasis](https://github.com/oasis-neu), a peer
 
 ## What I Build
 
-I implement everything from scratch at least once to understand it deeply. Recent projects include multi-threaded web servers, distributed systems, and machine learning algorithms without frameworks.
+I enjoy implementing everything from scratch at least once to understand it deeply. Recent projects include multi-threaded web servers, distributed systems, and machine learning algorithms without frameworks.
 
 ## Technical Foundation
 
