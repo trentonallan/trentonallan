@@ -32,48 +32,48 @@
     <!-- Shadow -->
     <ellipse cx="16" cy="27" rx="7" ry="2" fill="#000" opacity="0.15"/>
     
-    <!-- Cute chunky frog body -->
+    <!-- Frog body -->
     
-    <!-- Back legs (chunky) -->
+    <!-- Back legs -->
     <rect x="6" y="20" width="5" height="6" fill="#4a9e4a"/>
     <rect x="21" y="20" width="5" height="6" fill="#4a9e4a"/>
     
-    <!-- Big feet -->
+    <!-- Feet -->
     <rect x="4" y="25" width="7" height="3" fill="#4a9e4a"/>
     <rect x="21" y="25" width="7" height="3" fill="#4a9e4a"/>
     
-    <!-- Round chunky body -->
+    <!-- Round body -->
     <rect x="9" y="14" width="14" height="11" fill="#5cb85c"/>
     
-    <!-- Cute round belly -->
+    <!-- Round belly -->
     <rect x="11" y="18" width="10" height="6" fill="#8ed68e"/>
     <rect x="12" y="19" width="8" height="4" fill="#a5dfa5"/>
     
-    <!-- Wide head for cuteness -->
+    <!-- Head -->
     <rect x="8" y="8" width="16" height="8" fill="#5cb85c"/>
     
-    <!-- Big bulging eyes (classic frog) -->
+    <!-- Eyes -->
     <rect x="7" y="6" width="5" height="5" fill="#5cb85c"/>
     <rect x="20" y="6" width="5" height="5" fill="#5cb85c"/>
     
-    <!-- Large pupils for cute factor -->
+    <!-- Pupils -->
     <rect x="8" y="7" width="3" height="3" fill="#000"/>
     <rect x="21" y="7" width="3" height="3" fill="#000"/>
     
-    <!-- Big eye shines for kawaii effect -->
+    <!-- Eye shines -->
     <rect x="9" y="7" width="2" height="2" fill="#fff"/>
     <rect x="22" y="7" width="2" height="2" fill="#fff"/>
     
-    <!-- Small cute nostrils -->
+    <!-- Nostrils -->
     <rect x="14" y="10" width="1" height="1" fill="#3d8b3d"/>
     <rect x="17" y="10" width="1" height="1" fill="#3d8b3d"/>
     
-    <!-- Wide frog mouth (smiling) -->
+    <!-- Mouth -->
     <rect x="11" y="13" width="10" height="1" fill="#3d8b3d"/>
     <rect x="10" y="12" width="1" height="1" fill="#3d8b3d"/>
     <rect x="21" y="12" width="1" height="1" fill="#3d8b3d"/>
     
-    <!-- Tongue (appears during tiny hop) -->
+    <!-- Tongue -->
     <g class="tongue">
       <rect x="21" y="12" width="6" height="2" fill="#ff6b9d"/>
       <rect x="26" y="11" width="2" height="4" fill="#ff6b9d"/>
@@ -81,15 +81,15 @@
       <rect x="27" y="12" width="1" height="2" fill="#ff4757"/>
     </g>
     
-    <!-- Stubby arms -->
+    <!-- Arms -->
     <rect x="7" y="16" width="4" height="4" fill="#5cb85c"/>
     <rect x="21" y="16" width="4" height="4" fill="#5cb85c"/>
     
-    <!-- Little hands -->
+    <!-- Hands -->
     <rect x="6" y="19" width="3" height="2" fill="#5cb85c"/>
     <rect x="23" y="19" width="3" height="2" fill="#5cb85c"/>
     
-    <!-- Optional: tiny dart frog markings -->
+    <!-- Dart frog markings -->
     <rect x="12" y="9" width="2" height="1" fill="#4a9e4a"/>
     <rect x="18" y="9" width="2" height="1" fill="#4a9e4a"/>
     <rect x="15" y="15" width="1" height="2" fill="#4a9e4a"/>
