@@ -28,7 +28,7 @@
     }
   </style>
   
-  <g class="frog" transform="translate(0, -5)">
+  <g class="frog" transform="translate(0, 3)">
     <!-- Shadow -->
     <ellipse cx="16" cy="27" rx="7" ry="2" fill="#000" opacity="0.15"/>
     
