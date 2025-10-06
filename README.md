@@ -13,7 +13,7 @@
 ## Production Experience
 
 **[Oasis](https://github.com/oasis-neu)** — Live peer-to-peer marketplace  
-Architecting Node.js microservices handling concurrent transactions with <50ms p95 latency. PostgreSQL schema with ACID compliance across 15+ tables. Real-time WebSocket events for inventory updates.
+Architecting Node.js microservices handling concurrent transactions.
 
 **Open Source** — [Fixed critical bug in node-postgres](https://github.com/brianc/node-postgres) (11K★)  
 Identified and patched date serialization issue corrupting production database entries.
@@ -21,7 +21,7 @@ Identified and patched date serialization issue corrupting production database e
 ## Built From Scratch
 
 **[Dartfrog](https://github.com/trentonallan/dartfrog)** — HTTP/1.1 server, zero dependencies  
-Multi-threaded Java implementation supporting 10K+ concurrent connections. Hand-rolled request parser, connection pooling, NIO selectors. Fully RFC-compliant.
+Multi-threaded Java implementation supporting persistent concurrent connections. Hand-rolled request parser, connection pooling, NIO selectors. Fully RFC-compliant.
 
 **[Neural Network](https://github.com/trentonallan/neural-network-py)** — Pure NumPy, no frameworks  
 Implemented backpropagation computing all partial derivatives manually. 96% MNIST accuracy without ML libraries.
@@ -30,15 +30,11 @@ Implemented backpropagation computing all partial derivatives manually. 96% MNIS
 
 ```
 Systems:     Java, C, Python, JavaScript, SQL
-Production:  Node.js, PostgreSQL, Docker, Linux, microservices, REST APIs
+Production:  Node.js, PostgreSQL, Linux, microservices, REST APIs
 Concepts:    Concurrent programming, TCP/IP, database design, distributed systems
 ```
 
 ## Recognition
-
-- Dean's List (3.75 GPA) — Maintaining academic excellence while shipping production code
-- Most Valuable Intern — Selected from 20+ candidates at Cape Cod Theatre Company
-- 50+ students mentored — Technical instruction across 3 summers
 
 ---
 
