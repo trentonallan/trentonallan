@@ -16,7 +16,7 @@ Sophomore CS @ Northeastern with AI concentration.
 
 ## Recent Projects
 
-- <img src="frog.svg" width="32" height="32" align="middle"/> **[Dartfrog](https://github.com/trentonallan/dartfrog)** - Multi-threaded HTTP/1.1 server built from scratch in Java
+- <img src="frog.svg" width="32" height="32" align="middle"/> **[Dartfrog](https://github.com/trentonallan/dartfrog-java)** - Multi-threaded HTTP/1.1 server built from scratch in Java
    
   - RFC-compliant request parsing with persistent connections and pipelining
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
