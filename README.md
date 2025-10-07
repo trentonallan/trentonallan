@@ -9,7 +9,7 @@ Sophomore CS @ Northeastern with AI concentration.
 ## Current Work
 
 **[Oasis Project Series](https://github.com/oasis-neu)** - Leading backend development for P2P local thrifting marketplace
-- Architecting Node.js microservices supporting 75+ beta users and 500+ daily API requests
+- Architecting Node.js backend supporting 75+ beta users and 500+ daily API requests
 - Implementing real-time inventory updates with concurrent session management
 - Driving technical decisions on database schema, API structure, and authentication flow
 - Coordinating with 5-person agile team delivering features in weekly sprints
