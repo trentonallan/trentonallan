@@ -37,10 +37,10 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Technical Skills
 
-- **Languages:** Java, Python, JavaScript/Node.js, HTML/CSS, Racket, SQL
-- **Backend & Systems:** Express.js, PostgreSQL, RESTful APIs
-- **Tools:** Git/GitHub, Linux, Docker, NumPy, Jupyter, React.js, IntelliJ IDEA, VS Code
-- **Core Concepts:** Object-oriented design, concurrent programming, database design, unit testing, machine learning fundamentals
+- **Languages:** Java, Python, JavaScript/Node.js, HTML/CSS, Racket
+- **Tools and Frameworks:** Git/GitHub, Linux, Express.js, React.js, PostgreSQl, NumPy, Jupyter, Godot
+- **Skills:** Object Oriented Design, Debugging & Unit Testing, Machine Learning Fundamentals, Agile Methodology
+- **Certifications:** Leveraging AI For Business, Northeastern University; Seal of Biliteracy (Spanish & English), State of Indiana.
 
 ## Experience
 
@@ -52,7 +52,8 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Recognition
 
-- Dean's List 2024, 2025
+- Dean's List (2024, 2025)
+- Summa Cum Laude (2024)
 - Leveraging AI for Business Certification - Northeastern University
 - Seal of Biliteracy (Spanish & English)
 
