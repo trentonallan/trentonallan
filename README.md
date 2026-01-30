@@ -22,7 +22,7 @@ B.S. Computer Science, Concentration in Artificial Intelligence
   - Achieved convergent loss through hand-coded gradient descent
   - Binary classifier without ML frameworks or autograd
 
-- <img src="card.svg" width="32" height="32" align="middle"/> **[Credit Card System Simulator](https://github.com/trentonallan/credit-simulator)** - Object-oriented financial modeling
+- <img src="card.svg" width="32" height="32" align="middle"/> **Credit Card System Simulator** - Object-oriented financial modeling
   - APR calculations, payment processing, dynamic credit limits
   - Test suite ensuring accuracy to 4 decimal places
 
