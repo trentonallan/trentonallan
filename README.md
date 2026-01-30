@@ -4,7 +4,7 @@ Backend Engineer @ [Oasis NEU](https://github.com/oasis-neu) project series buil
 
 Sophomore CS @ Northeastern with AI concentration.
 
-**Seeking January-August 2026 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]
+**Seeking January-August 2027 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]
 
 ## Current Work
 
