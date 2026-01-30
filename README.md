@@ -1,7 +1,7 @@
 # Trenton Allan
-Sophomore @ Northeastern
-B.S. Computer Science, Concentration in Artificial Intelligence
-**Seeking January-August 2027 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]
+Sophomore @ Northeastern  
+B.S. Computer Science, Concentration in Artificial Intelligence  
+**Seeking January-August 2027 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]  
 
 ## Current Work
 
