@@ -65,7 +65,7 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Relevant Coursework
 
-Program Design & Implementation 2, Fundamentals of Computer Science 1 and 2, Discrete Structures, Foundations of Cybersecurity, Mathematical Reasoning
+Program Design & Implementation 2, Fundamentals of Computer Science 1 and 2, Discrete Structures, Foundations of Cybersecurity, Mathematical Reasoning, Calculus I, Calculus II
 
 ## Contact
 
