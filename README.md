@@ -32,7 +32,7 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Technical Skills
 
-- **Languages:** Java, Python, JavaScript/Node.js, HTML/CSS, Bash, Batch, Racket
+- **Languages:** Python, Java, JavaScript/Node.js, HTML/CSS, Bash, Batch, Racket
 - **Data & ML:** scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
 - **Tools and Frameworks:** Git/GitHub, Linux, Express.js, React.js, PostgreSQL, Google Earth Engine API, Godot
 - **Engineering Practices:** Object Oriented Design, ETL Pipelines, RESTful APIs, Debugging & Unit Testing, Agile Methodology
