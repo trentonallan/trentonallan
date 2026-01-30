@@ -40,7 +40,7 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Professional Experience
 
-**System Associate Co-op** - Northeastern (January 2026 - Present)
+**Systems Associate Co-op** - Northeastern (January 2026 - Present)
 - Execute daily financial data processing and validation workflows integrating PowerFaids database with reporting systems, ensuring data accuracy and consistency across financial operations
 - Maintain asset tracking database for 100+ devices across 50+ staff members, performing regular audits and inventory reconciliation
 - Coordinate content updates across multiple CMS platforms (WordPress, Contentful, Gather Content), managing deployment schedules and version tracking
