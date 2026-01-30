@@ -46,7 +46,7 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 - **Skills:** Object Oriented Design, Debugging & Unit Testing, Machine Learning Fundamentals, Agile Methodology
 - **Certifications:** Leveraging AI For Business, Northeastern University; Seal of Biliteracy (Spanish & English), State of Indiana.
 
-## Experience
+## Professional Experience
 
 **Technical Program Lead** - Cape Cod Theatre Company (Summers 2021-2023)
 - Designed inventory system for 4,000+ assets using database principles
