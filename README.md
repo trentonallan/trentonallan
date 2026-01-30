@@ -41,11 +41,9 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 ## Professional Experience
 
 **System Associate Co-op** - Northeastern (January 2026 - Present)
-- Leading backend development for P2P local thrifting marketplace
-- Architecting Node.js backend supporting 75+ beta users and 500+ daily API requests
-- Implementing real-time inventory updates with concurrent session management
-- Driving technical decisions on database schema, API structure, and authentication flow
-- Coordinating with 5-person agile team delivering features in weekly sprints
+- Execute daily financial data processing and validation workflows integrating PowerFaids database with reporting systems, ensuring data accuracy and consistency across financial operations
+- Maintain asset tracking database for 100+ devices across 50+ staff members, performing regular audits and inventory reconciliation
+- Coordinate content updates across multiple CMS platforms (WordPress, Contentful, Gather Content), managing deployment schedules and version tracking
 
 **Backend Software Engineer** - Oasis @ NU (September - December 2025)
 - Leading backend development for P2P local thrifting marketplace
