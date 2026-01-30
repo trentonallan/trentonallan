@@ -2,8 +2,6 @@
 Sophomore @ Northeastern University   
 B.S. Computer Science, Concentration in Artificial Intelligence  
 
-**Seeking January-August 2027 co-op opportunities.** [[Resume](Trenton-Allan-Resume.pdf)]  
-
 
 ## Recent Projects
 
