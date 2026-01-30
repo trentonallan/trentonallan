@@ -31,8 +31,6 @@ B.S. Computer Science, Concentration in Artificial Intelligence
 Fixed critical date serialization bug in [node-postgres](https://github.com/brianc/node-postgres) (11K+ stars) that was corrupting PostgreSQL database entries
 
 ## Technical Skills
-<img width="468" height="129" alt="image" src="https://github.com/user-attachments/assets/55e5d21e-bbd7-4c7d-b4f2-898e4c412640" />
-
 
 - **Languages:** Java, Python, JavaScript/Node.js, HTML/CSS, Bash, Batch, Racket
 - **Data & ML:** scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
