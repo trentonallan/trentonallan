@@ -46,11 +46,9 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 - Coordinate content updates across multiple CMS platforms (WordPress, Contentful, Gather Content), managing deployment schedules and version tracking
 
 **Backend Software Engineer** - Oasis @ NU (September - December 2025)
-- Leading backend development for P2P local thrifting marketplace
-- Architecting Node.js backend supporting 75+ beta users and 500+ daily API requests
-- Implementing real-time inventory updates with concurrent session management
-- Driving technical decisions on database schema, API structure, and authentication flow
-- Coordinating with 5-person agile team delivering features in weekly sprints
+- Architected Node.js/Express.js backend handling 75+ concurrent users and 500+ daily API requests, implementing RESTful endpoints for real-time inventory updates and bidding workflows
+- Designed PostgreSQL database schema with relational modeling for users, listings, transactions, and messaging, establishing foreign key relationships and data integrity constraints
+- Drove technical architecture decisions on database design, API structure, and request handling patterns while coordinating with 5-person agile team in weekly sprints
 
 **Technical Program Lead** - Cape Cod Theatre Company (Summers 2021-2023)
 - Designed inventory system for 4,000+ assets using database principles
