@@ -7,7 +7,7 @@ B.S. Computer Science, Concentration in Artificial Intelligence
 
 - <img src="fish.svg" width="32" height="32" align="middle"/> **[Virtual Aragonite Sensor](https://github.com/trentonallan/virtual-aragonite-sensor)** - ML pipeline for coral reef conservation
    
-  - Predicts ocean acidification (R² = 0.80) from satellite data, replacing $10k/day research cruises with zero-cost screening
+  - Predicts ocean acidification impact on coral building conditions (R² = 0.80) from satellite data, replacing $10k/day research cruises with zero-cost screening
   - Integrated GLODAP database (1.4M measurements), Google Earth Engine API, and ETOPO1 bathymetry with temporal/spatial joins
   - Random Forest with custom confidence scoring, 50-fold cross-validation, and checkpoint-based fault tolerance for 45-min API workflows
  
