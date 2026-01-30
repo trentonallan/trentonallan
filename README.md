@@ -26,7 +26,7 @@ Sophomore CS @ Northeastern with AI concentration.
   - Optimized with non-blocking sockets, gzip compression, and connection pooling
   - Persistent concurrent connections with zero external dependencies
 
-- <img src="brain.svg" width="32" height="32" align="middle"/> **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation 
+- <img src="backprop_loop.svg" width="32" height="32" align="middle"/> **[Neural Network from Scratch](https://github.com/trentonallan/neural-network-py)** - Pure NumPy implementation 
   - Manually computed all 12 partial derivatives through backpropagation
   - Achieved convergent loss through hand-coded gradient descent
   - Binary classifier without ML frameworks or autograd
