@@ -14,7 +14,7 @@ Sophomore CS @ Northeastern with AI concentration.
 
 ## Recent Projects
 
-- <img src="frog.svg" width="32" height="32" align="middle"/> **[Dartfrog](https://github.com/trentonallan/virtual-aragonite-sensor)** - ML pipeline for coral reef conservation
+- <img src="frog.svg" width="32" height="32" align="middle"/> **[Virtual Aragonite Sensor](https://github.com/trentonallan/virtual-aragonite-sensor)** - ML pipeline for coral reef conservation
    
   - Predicts ocean acidification (R² = 0.80) from satellite data, replacing $10k/day research cruises with zero-cost screening
   - Integrated GLODAP database (1.4M measurements), Google Earth Engine API, and ETOPO1 bathymetry with temporal/spatial joins
