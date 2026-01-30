@@ -1,0 +1,49 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes forward {
+      0%   { opacity: 0; transform: translateX(0); }
+      10%  { opacity: 1; }
+      40%  { transform: translateX(14px); opacity: 1; }
+      45%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes backward {
+      0%, 45% { opacity: 0; transform: translateX(0); }
+      55%     { opacity: 1; }
+      85%     { transform: translateX(-14px); opacity: 1; }
+      90%     { opacity: 0; }
+      100%    { opacity: 0; }
+    }
+
+    .signal {
+      animation: forward 5s ease-in-out infinite;
+    }
+
+    .gradient {
+      animation: backward 5s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Connections -->
+  <line x1="7" y1="10" x2="15" y2="16" stroke="#999" stroke-width="1"/>
+  <line x1="7" y1="22" x2="15" y2="16" stroke="#999" stroke-width="1"/>
+  <line x1="15" y1="16" x2="25" y2="16" stroke="#999" stroke-width="1"/>
+
+  <!-- Nodes -->
+  <!-- Input layer -->
+  <rect x="5" y="8" width="4" height="4" fill="#555"/>
+  <rect x="5" y="20" width="4" height="4" fill="#555"/>
+
+  <!-- Hidden -->
+  <rect x="13" y="14" width="4" height="4" fill="#555"/>
+
+  <!-- Output -->
+  <rect x="23" y="14" width="4" height="4" fill="#555"/>
+
+  <!-- Forward signal -->
+  <circle class="signal" cx="7" cy="16" r="1.5" fill="#6ecbff"/>
+
+  <!-- Backward gradient -->
+  <circle class="gradient" cx="25" cy="16" r="1.5" fill="#ff9f43"/>
+</svg>
