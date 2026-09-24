@@ -48,9 +48,8 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 - Managed asset tracking database and inventory reconciliation for 100+ devices across 50+ staff to optimize hardware operational readiness. 
 
 **Backend Software Engineer** - Oasis @ NU (September - December 2025)
-- Architected Node.js/Express.js backend handling 75+ concurrent users and 500+ daily API requests, implementing RESTful endpoints for real-time inventory updates and bidding workflows
-- Designed PostgreSQL database schema with relational modeling for users, listings, transactions, and messaging, establishing foreign key relationships and data integrity constraints
-- Drove technical architecture decisions on database design, API structure, and request handling patterns while coordinating with 5-person agile team in weekly sprints
+- Architected Node.js/Express.js API endpoints handling 500+ daily requests; integrated transactional database pipelines to support real-time inventory and bidding workflows for 75+ concurrent users. 
+- Designed PostgreSQL schema with relational modeling and data integrity constraints; drove architecture decisions across a 5-person agile team. 
 
 **Technical Program Lead** - Cape Cod Theatre Company (Summers 2021-2023)
 - Designed inventory system for 4,000+ assets using database principles
