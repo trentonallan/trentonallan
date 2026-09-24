@@ -42,9 +42,10 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 ## Professional Experience
 
 **Systems Associate Co-op** - Northeastern (January 2026 - Present)
-- Execute daily financial data processing and validation workflows integrating PowerFaids database with reporting systems, ensuring data accuracy and consistency across financial operations
-- Maintain asset tracking database for 100+ devices across 50+ staff members, performing regular audits and inventory reconciliation
-- Coordinate content updates across multiple CMS platforms (WordPress, Contentful, Gather Content), managing deployment schedules and version tracking
+- Partnered with non-technical department stakeholders to map manual administrative workflows; translated operational bottlenecks into clear technical requirements for IT process automation. 
+- Engineered daily financial data processing and validation workflows integrating PowerFaids database with reporting systems; maintained data integrity across operational pipelines. 
+- Coordinated cross-platform content deployments (WordPress, Contentful) across multiple teams; enforced version control standards and release schedules. 
+- Managed asset tracking database and inventory reconciliation for 100+ devices across 50+ staff to optimize hardware operational readiness. 
 
 **Backend Software Engineer** - Oasis @ NU (September - December 2025)
 - Architected Node.js/Express.js backend handling 75+ concurrent users and 500+ daily API requests, implementing RESTful endpoints for real-time inventory updates and bidding workflows
