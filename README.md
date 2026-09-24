@@ -33,11 +33,11 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 ## Technical Skills
 
 - **Languages:** Python, Java, C, JavaScript/Node.js, SQL, HTML/CSS
-- **AI & Automation:** LLM API integration (Anthropic, OpenAI SDKs), foundations of agentic workflows (LangChain, AutoGen), prompt engineering, AI evaluation, PyTorch, scikit-learn
-- **APIs & Integration:** RESTful API design & integration, FastAPI, Express.js, Postman, PostgreSQL
-- **Engineering Practices:** Git/GitHub (version control), modular design, unit testing, CI/CD (GitHub Actions), code review, technical documentation, Agile/Scrum, Bash/Zsh CLI, Object-Oriented Design 
+- **AI & Automation:** LLM API integration (Anthropic, OpenAI SDKs), foundations of agentic workflows (LangChain, AutoGen), prompt engineering, AI evaluation, PyTorch
 - **Data & ML:** ETL Pipelines, scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
-- **Tools and Frameworks:** Git/GitHub, Linux, Express.js, React.js, PostgreSQL, Google Earth Engine API, Godot
+- **APIs & Integration:** RESTful API design & integration, FastAPI, Express.js, Postman, PostgreSQL
+- **Tools and Frameworks:** Git/GitHub, Linux, React.js, Google Earth Engine API, Godot
+- **Engineering Practices:** Git/GitHub (version control), modular design, unit testing, CI/CD (GitHub Actions), code review, technical documentation, Agile/Scrum, Bash/Zsh CLI, Object-Oriented Design 
 
 ## Professional Experience
 
