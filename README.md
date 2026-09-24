@@ -36,8 +36,8 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 - **AI & Automation:** LLM API integration (Anthropic, OpenAI SDKs), foundations of agentic workflows (LangChain, AutoGen), prompt engineering, AI evaluation, PyTorch
 - **Data & ML:** ETL Pipelines, scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
 - **APIs & Integration:** RESTful API design & integration, FastAPI, Express.js, Postman, PostgreSQL
-- **Tools and Frameworks:** Git/GitHub, Linux, React.js, Google Earth Engine API, Godot
-- **Engineering Practices:** Git/GitHub (version control), modular design, unit testing, CI/CD (GitHub Actions), code review, technical documentation, Agile/Scrum, Bash/Zsh CLI, Object-Oriented Design 
+- **Tools and Frameworks:** Git/GitHub (version control), Linux, React.js, Google Earth Engine API, Godot
+- **Engineering Practices:** modular design, unit testing, CI/CD (GitHub Actions), code review, technical documentation, Agile/Scrum, Bash/Zsh CLI, Object-Oriented Design 
 
 ## Professional Experience
 
