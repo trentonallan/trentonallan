@@ -38,7 +38,6 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 - **Engineering Practices:** Git/GitHub (version control), modular design, unit testing, CI/CD (GitHub Actions), code review, technical documentation, Agile/Scrum, Bash/Zsh CLI, Object-Oriented Design 
 - **Data & ML:** ETL Pipelines, scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
 - **Tools and Frameworks:** Git/GitHub, Linux, Express.js, React.js, PostgreSQL, Google Earth Engine API, Godot
-- **Certifications:** Leveraging AI For Business, Northeastern University; Seal of Biliteracy (Spanish & English), IN.
 
 ## Professional Experience
 
@@ -60,14 +59,14 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Additional
 
+- Leveraging AI for Business Certification, Northeastern University: Evaluated emerging AI frameworks to automate administrative workflows and optimize operational decision-making.
+- Seal of Biliteracy (Spanish & English)
 - Dean's List (2024, 2025)
 - Summa Cum Laude (2024)
-- Leveraging AI for Business Certification - Northeastern University - Evaluated emerging AI frameworks to automate administrative workflows and optimize operational decision-making.
-- Seal of Biliteracy (Spanish & English)
 
 ## Relevant Coursework
 
-Program Design & Implementation 2, Fundamentals of Computer Science 1 and 2, Discrete Structures, Foundations of Cybersecurity, Software Development, Mathematical Reasoning, Calculus I & II
+Object Oriented Design, Mathematical Foundations of Artificial Intelligence, Algorithms & Data Structures, Computer Systems, Fundamentals of Computer Science 1 and 2, Discrete Structures, Cybersecurity, Software Development Capstone, Mathematical Reasoning, Calculus I & II
 
 ## Contact
 
