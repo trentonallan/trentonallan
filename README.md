@@ -1,5 +1,5 @@
 # Trenton Allan
-Sophomore @ Northeastern University   
+Junior @ Northeastern University   
 B.S. Computer Science, Concentration in Artificial Intelligence  
 
 
