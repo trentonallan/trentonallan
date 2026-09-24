@@ -32,10 +32,12 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 
 ## Technical Skills
 
-- **Languages:** Python, Java, JavaScript/Node.js, HTML/CSS, Bash, Batch, Racket
-- **Data & ML:** scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
+- **Languages:** Python, Java, C, JavaScript/Node.js, SQL, HTML/CSS
+- **AI & Automation:** LLM API integration (Anthropic, OpenAI SDKs), foundations of agentic workflows (LangChain, AutoGen), prompt engineering, AI evaluation, PyTorch, scikit-learn
+- **APIs & Integration:** RESTful API design & integration, FastAPI, Express.js, Postman, PostgreSQL
+- **Engineering Practices:** Git/GitHub (version control), modular design, unit testing, CI/CD (GitHub Actions), code review, technical documentation, Agile/Scrum, Bash/Zsh CLI, Object-Oriented Design 
+- **Data & ML:** ETL Pipelines, scikit-learn, pandas, NumPy, xarray, matplotlib, seaborn, Jupyter, Random Forest, cross-validation, feature engineering
 - **Tools and Frameworks:** Git/GitHub, Linux, Express.js, React.js, PostgreSQL, Google Earth Engine API, Godot
-- **Engineering Practices:** Object Oriented Design, ETL Pipelines, RESTful APIs, Debugging & Unit Testing, Agile Methodology
 - **Certifications:** Leveraging AI For Business, Northeastern University; Seal of Biliteracy (Spanish & English), IN.
 
 ## Professional Experience
@@ -56,11 +58,11 @@ Fixed critical date serialization bug in [node-postgres](https://github.com/bria
 - Mentored 50+ students per season
 - Selected as "Most Valuable Intern" among 20+ candidates
 
-## Recognition
+## Additional
 
 - Dean's List (2024, 2025)
 - Summa Cum Laude (2024)
-- Leveraging AI for Business Certification - Northeastern University
+- Leveraging AI for Business Certification - Northeastern University - Evaluated emerging AI frameworks to automate administrative workflows and optimize operational decision-making.
 - Seal of Biliteracy (Spanish & English)
 
 ## Relevant Coursework
